@@ -78,7 +78,8 @@ for i in range(n):
 
 
 ## Output:
-![Screenshot (40)](https://github.com/user-attachments/assets/a5e787cb-e44e-4177-9000-616f03a3d7d6)
+![Screenshot 2025-05-16 195619](https://github.com/user-attachments/assets/47882bb2-22ad-42ec-af3a-20620fff5f6c)
+
 
 
 
